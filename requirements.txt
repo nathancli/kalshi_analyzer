@@ -1,0 +1,6 @@
+streamlit>=1.38
+requests>=2.32
+cryptography>=42
+python-dotenv>=1.0
+pandas>=2.2
+plotly>=5.22
